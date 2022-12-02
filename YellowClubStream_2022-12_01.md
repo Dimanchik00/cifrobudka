@@ -46,5 +46,10 @@ https://practicum.yandex.ru/
 https://stepik.org/catalog
 https://netology.ru/
 
+## Развитие 1С-ника
+Рост 1С и не 1С-ника - различия и почему тестировщик в 1С это не джун
+https://www.youtube.com/watch?v=QpKJhZfAXkY
+
+
 
 Моя цифробудка - https://t.me/cifrobudka
