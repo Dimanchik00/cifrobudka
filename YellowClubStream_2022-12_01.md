@@ -50,6 +50,10 @@ https://netology.ru/
 Развитие 1С-ника и не 1С-ника - различия и почему тестировщик в 1С это не джун
 https://www.youtube.com/watch?v=QpKJhZfAXkY
 
+## От X до Альфы 
 
+6 минутная статья - 
+Не факт, что вы такие, но очень многие  -да
+https://blog.karpachoff.com/teoriya-pokoleniy-po-godam-h-y-z-i-alfa-kak-nazyvayutsya-i-chem-razlichayutsya
 
-Моя цифробудка - https://t.me/cifrobudka
+Моя цифробудка - заходите! :  https://t.me/cifrobudka
