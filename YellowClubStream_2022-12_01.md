@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=QpKJhZfAXkY
 ## От X до Альфы 
 
 6 минутная статья - 
-Не факт, что вы такие, но очень многие  -да
+Не факт, что вы такие, но очень многие  -да <br>
 https://blog.karpachoff.com/teoriya-pokoleniy-po-godam-h-y-z-i-alfa-kak-nazyvayutsya-i-chem-razlichayutsya
 
 Моя цифробудка - заходите! :  https://t.me/cifrobudka
